@@ -1,0 +1,18 @@
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\SpotifyPlaylistsApi.deps.json
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\SpotifyPlaylistsApi.runtimeconfig.json
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\SpotifyPlaylistsApi.runtimeconfig.dev.json
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\SpotifyPlaylistsApi.dll
+C:\REPOS private\SpotifyPlaylistsApi\obj\Debug\netcoreapp2.2\SpotifyPlaylistsApi.RazorAssemblyInfo.cache
+C:\REPOS private\SpotifyPlaylistsApi\obj\Debug\netcoreapp2.2\SpotifyPlaylistsApi.RazorAssemblyInfo.cs
+C:\REPOS private\SpotifyPlaylistsApi\obj\Debug\netcoreapp2.2\SpotifyPlaylistsApi.AssemblyInfoInputs.cache
+C:\REPOS private\SpotifyPlaylistsApi\obj\Debug\netcoreapp2.2\SpotifyPlaylistsApi.AssemblyInfo.cs
+C:\REPOS private\SpotifyPlaylistsApi\obj\Debug\netcoreapp2.2\SpotifyPlaylistsApi.RazorTargetAssemblyInfo.cache
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\SpotifyPlaylistsApi.pdb
+C:\REPOS private\SpotifyPlaylistsApi\obj\Debug\netcoreapp2.2\SpotifyPlaylistsApi.dll
+C:\REPOS private\SpotifyPlaylistsApi\obj\Debug\netcoreapp2.2\SpotifyPlaylistsApi.pdb
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\SpotifyPlaylistsApi.xml
+C:\REPOS private\SpotifyPlaylistsApi\obj\Debug\netcoreapp2.2\SpotifyPlaylistsApi.csprojAssemblyReference.cache
+C:\REPOS private\SpotifyPlaylistsApi\bin\Debug\netcoreapp2.2\reczne wrzucenie.json

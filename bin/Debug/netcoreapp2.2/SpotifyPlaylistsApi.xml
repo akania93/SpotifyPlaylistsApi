@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpotifyPlaylistsApi</name>
+    </assembly>
+    <members>
+        <member name="M:SpotifyPlaylistsApi.Controllers.PlaylistCategoriesController.GetPlaylistCategories">
+            <summary>
+            Get all PlaylistCategories values
+            </summary>
+            <remarks>This API will get all values.</remarks>
+        </member>
+        <member name="M:SpotifyPlaylistsApi.Controllers.PlaylistCategoriesController.GetPlaylistCategories(System.Int64)">
+            <summary>
+            Get the PlaylistCategories value
+            </summary>
+            <remarks>This API will get the value.</remarks>
+            <param name="id"></param>
+        </member>
+        <member name="M:SpotifyPlaylistsApi.Controllers.PlaylistsController.GetPlaylists">
+            <summary>
+            Get all Playlists
+            </summary>
+            <remarks>This API will get all the values.</remarks>
+        </member>
+        <member name="M:SpotifyPlaylistsApi.Controllers.PlaylistsController.GetPlaylists(System.Int64)">
+            <summary>
+            Get the Playlist
+            </summary>
+            <remarks>This API will get the playlist by id.</remarks>
+            <param name="id">playlist id</param>
+        </member>
+        <member name="M:SpotifyPlaylistsApi.Controllers.PlaylistsController.PutPlaylists(System.Int64,SpotifyPlaylistsApi.Models.Playlists)">
+            <summary>
+            Update Playlist
+            </summary>
+            <remarks>This API will update the playlist by id.</remarks>
+            <param name="id">playlist id</param>
+        </member>
+        <member name="M:SpotifyPlaylistsApi.Controllers.PlaylistsController.PostPlaylists(SpotifyPlaylistsApi.Models.Playlists)">
+            <summary>
+            Add Playlist
+            </summary>
+            <remarks>This API will add the playlist.</remarks>
+            <param name="playlists">new playlist (json)</param>
+        </member>
+        <member name="M:SpotifyPlaylistsApi.Controllers.PlaylistsController.DeletePlaylists(System.Int64)">
+            <summary>
+            Delete Playlist
+            </summary>
+            <remarks>This API will delete the playlist by id.</remarks>
+            <param name="id">playlist id</param>
+        </member>
+    </members>
+</doc>
